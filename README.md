@@ -26,7 +26,7 @@ Have fun.
 ## Key Features
  - **works even with bluetooth!**
  - **program any key the way you like!**
- - **does not void your warranty!"**
+ - **does not void your warranty!**
  - **open source GPL license!**
 
 <br>
@@ -41,7 +41,7 @@ Have fun.
 ## Getting Started
 
 1. Download and install [AutoHotkey](https://www.autohotkey.com/)
-2. Download this [roccat-sux-remapper.ahk](https://github.com/nqtronix/ahk-cause-roccat-sux/blob/dev/roccat-sux-remapper.ahk)
+2. Download this [roccat-sux-remapper.ahk](https://github.com/nqtronix/ahk-cause-roccat-sux/blob/main/roccat-sux-remapper.ahk)
 3. "Right click -> Edit Script" to adjust this script to yur liking (optional)
 4. Double click the script to run it! Right click on the tray icon to exit it.
 
